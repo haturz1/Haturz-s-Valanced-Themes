@@ -26,7 +26,7 @@
 		"STATUS_POSITIVE": ["#394e42"],
 		"SWITCH_BACKGROUND_SELECTED_DEFAULT": ["#a3a3a3"],
 		"TEXT_BRAND": ["#ffffff"],
-		"TEXT_FEEDBACK_POSITIVE": ["#6c6c6c"],
+		"TEXT_FEEDBACK_POSITIVE": ["#b4b4b4"],
 		"TEXT_LINK": ["#808283"]
 	},
 	"rawColors": {
